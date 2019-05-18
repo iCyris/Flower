@@ -1,7 +1,7 @@
-# 『 绿生的幻想乡 』
+# 『 Flower 』
 
-My design portfolio v2.
+My design portfolio v1.
 
-🎉 https://cyris.moe/ 🎉
+🎉 https://flower.cyris.moe/ 🎉
 
 
